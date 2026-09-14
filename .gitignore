@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+data/*.sqlite3
+tests/*.sqlite
+server.out
+server.err
+
